@@ -1,5 +1,5 @@
-import ExpenseItem from './components/ExpenseItem'
-import react from React
+
+
 function App() {
   return (
     <div>
